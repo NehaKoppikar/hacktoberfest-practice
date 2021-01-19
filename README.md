@@ -205,6 +205,7 @@ Questions can be asked by raising an `Issue`.
 - [Naman Mittal](https://github.com/Namanmittal0007)
 - [Namya LG](https://github.com/Namyalg)
 - [Nathan Byrne](https://github.com/naefun/)
+- [Neha Koppikar](https://github.com/NehaKoppikar)
 - [Niranjan](https://github.com/niranjantuty)
 - [Numan Javed](https://github.com/numanjvd82)
 - [Nworie Chikwado Emmanuel](https://github.com/chikwado17)
